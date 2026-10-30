@@ -1,0 +1,26 @@
+h1 {
+    display:inline-block;
+    font-size: 72px;
+    background: linear-gradient(45deg,#FF0000,#FF7F00,#FFFF00,#00FF00,#0000FF,#4B0082,#8B00FF);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size:100%;
+}
+p{
+    font-size: 80px;
+}
+h3{
+    font-size: 80px;
+}
+img{
+    width:100px
+}
+body{
+    background-color: lightblue;
+}
+head{
+    display: inline-block;
+    background-color:aquamarine;
+    color:burlywood;
+}
